@@ -4,6 +4,8 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<img src="https://raw.githubusercontent.com/rafaelpontes14/rafaelpontes14/output/snake.svg" alt="Snake animation" />
+
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Rafael! A passionate Software Enginner student from Brazil.
@@ -45,7 +47,7 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
   
 
