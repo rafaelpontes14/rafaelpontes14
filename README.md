@@ -4,8 +4,6 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-<img src="https://raw.githubusercontent.com/rafaelpontes14/rafaelpontes14/output/snake.svg" alt="Snake animation" />
-
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Rafael! A passionate Software Enginner student from Brazil.
